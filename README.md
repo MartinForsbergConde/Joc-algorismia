@@ -5,8 +5,9 @@ Per afegir objectes d'altres jugadors sense que us passin el codi, heu de descar
 EXTRA_OBJ = AIexemple.o AIMonchi AIMonchi4 AIAsesino
 Ara make all i podeu jugar amb ells.
 
-En el cas dels meus codis:
--- Recomano comprovar els vostres programes contra els més bàsics que he creat jo. Comenceu intentant guanyar-los.
+#Codis Martón 
+Recomano comprovar els vostres programes contra els més bàsics que he creat jo. Comenceu intentant guanyar-los.
+
 - AIMonchi és bàsic i no l'importen altres jugadors
 - AIAsesino és bàsic i no l'importen les ciutats (molt agressiu).
 
