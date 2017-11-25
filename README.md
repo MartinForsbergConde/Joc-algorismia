@@ -3,7 +3,7 @@
 He creat aquest github per pujar i baixar els objectes de codi del joc d'algorísmia.
 Per afegir objectes d'altres jugadors sense que us passin el codi, heu de descarregar el seu objecte (AIexemple.o), afegir-lo a la carpeta Game, i dins del makefile afegir " AIexemple.o" a la línia "EXTRA_OBJ = "  Per exemple:
 EXTRA_OBJ = AIexemple.o AIMonchi.o AIMonchi4.o AIAsesino.o
-Ara make all i podeu jugar amb ells.
+Ara make all i podeu jugar amb ells. Afegiu qualsevol programa que pugui guanyar contra els dummies, i comparem!
 
 # Objectes Martón 
 
