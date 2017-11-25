@@ -5,7 +5,7 @@ Per afegir objectes d'altres jugadors sense que us passin el codi, heu de descar
 EXTRA_OBJ = AIexemple.o AIMonchi AIMonchi4 AIAsesino
 Ara make all i podeu jugar amb ells.
 
-# Codis Martón 
+# Objectes Martón 
 
 Recomano comprovar els vostres programes contra els més bàsics que he creat jo. Comenceu intentant guanyar-los.
 
