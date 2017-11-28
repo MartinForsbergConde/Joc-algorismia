@@ -19,7 +19,7 @@ Recomano comprovar els vostres programes contra els més bàsics que he creat jo
 
 # Objectes Ramiro
 Són per a Mac. 
--AIAsesino3 és bàsic. Sap esquivar, ataca, no utilitza costos. 
+- AIAsesino3 és bàsic. Sap esquivar, ataca, no utilitza costos. 
 
 
 
