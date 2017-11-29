@@ -14,8 +14,9 @@ Recomano comprovar els vostres programes contra els més bàsics que he creat jo
 - AIMonchi és bàsic i no l'importen altres jugadors
 - AIAsesino és bàsic i no l'importen les ciutats (molt agressiu).
 - AIMonchi3 és millor que AIMonchi i sap esquivar.
-- AIMonchi4 persegueix i mata dins ciutats, seguint una estratègia concreta. És millor que AIMonchi3.
-- AIMonchi5 és una millora d'AIMonchi3 però també intenta matar com AIAsesino. Guanya ~50% de les partides contra AIMonchi4.
+- AIMonchi4 persegueix i mata dins ciutats, seguint una estratègia concreta. És millor que AIMonchi3 i AIMonchi5.
+- AIMonchi5 és una millora d'AIMonchi3 però també intenta matar com AIAsesino. Guanya algunes partides contra AIMonchi4.
+- AIMonchi9 és una millora d'AIMonchi5 que guanya la meitat de partides contra AIMonchi4.
 
 # Objectes Ramiro
 Són per a Mac. 
