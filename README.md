@@ -22,6 +22,12 @@ Recomano comprovar els vostres programes contra els més bàsics que he creat jo
 Són per a Mac. 
 - AIAsesino3 és bàsic. Sap esquivar, ataca, no utilitza costos. 
 
+# Objectes Adom
+Són per a Cygwin.
+- AIBerseker és bàsic. Segurament molt similar a AIMonchi, no li importen altres jugadors.
+- AIIntelligent2 esquiva els enemics que el persegueixen.
+- AIRemasterC arregla alguns bugs de codi que té AIIntelligent2 sobre cap a on esquivar.
+
 
 
 
