@@ -25,7 +25,7 @@ Són per a Mac.
 # Objectes Adom
 Són per a Cygwin.
 - AIBerseker és bàsic. Segurament molt similar a AIMonchi, no li importen altres jugadors.
-- AIIntelligent2 esquiva els enemics que el persegueixen.
+- AIIntelligent2 guanya a AIBerseker i a AIAsesino, esquiva els enemics que el persegueixen.
 - AIRemasterC arregla alguns bugs de codi que té AIIntelligent2 sobre cap a on esquivar.
 
 
