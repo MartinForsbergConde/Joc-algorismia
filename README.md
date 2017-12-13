@@ -17,6 +17,8 @@ Recomano comprovar els vostres programes contra els més bàsics que he creat jo
 - AIMonchi4 persegueix i mata dins ciutats, seguint una estratègia concreta. És millor que AIMonchi3 i AIMonchi5.
 - AIMonchi5 és una millora d'AIMonchi3 però també intenta matar com AIAsesino. Guanya algunes partides contra AIMonchi4.
 - AIMonchi9 és una millora d'AIMonchi5 que guanya la meitat de partides contra AIMonchi4.
+- AIMonchiII és una millora de AIMonchi9. Juga bastant diferent i he fent bastantes coses per canviar-lo.
+- AIMoncho és una millora àmplia de AIMonchi9, i és el millor jugador que he creat fins ara.
 
 # Objectes Ramiro
 Són per a Mac. 
